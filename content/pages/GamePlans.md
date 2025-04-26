@@ -118,8 +118,8 @@ sections:
 slug: GamePlans
 seo:
   type: Seo
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: Plans
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
