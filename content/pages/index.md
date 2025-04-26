@@ -188,10 +188,8 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: 'xao wong lee '
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          8/10 bcs long wait time when i purchased but overall great!
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
