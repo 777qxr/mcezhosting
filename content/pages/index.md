@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://discord.gg/mcezhosting'
         showIcon: false
         icon: arrowRight
         iconPosition: right
