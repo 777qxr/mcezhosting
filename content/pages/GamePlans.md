@@ -86,7 +86,7 @@ sections:
         features:
           - ₱640/month
           - 16 GB RAM
-          - 200 GB DISK
+          - 6 Cores CPU
           - 3 BACKUP SLOTS
           - Feature five
         image:
