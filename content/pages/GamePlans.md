@@ -84,7 +84,7 @@ sections:
           Server Specification
 
         features:
-          - 16 GB RAM
+          - ₱640/month
           - 6 Cores CPU
           - 200 GB DISK
           - 3 BACKUP SLOTS
