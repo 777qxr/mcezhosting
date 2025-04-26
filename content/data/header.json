@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Main Site",
-            "url": "/careers",
+            "url": "/career",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
