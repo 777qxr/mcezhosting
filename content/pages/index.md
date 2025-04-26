@@ -372,16 +372,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-    actions:
-      - type: Link
-        label: Start your game server →
-        altText: ''
-        url: 'https://discord.gg/mcezhosting'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
