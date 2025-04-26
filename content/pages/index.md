@@ -377,7 +377,7 @@ sections:
         label: Start your game server →
         altText: ''
         url: 'https://discord.gg/mcezhosting'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
