@@ -382,11 +382,5 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-seo:
-  metaTitle: 'Home '
-  metaDescription: ''
-  socialImage: /images/main-hero.jpg
-  type: Seo
-  addTitleSuffix: false
 type: PageLayout
 ---
