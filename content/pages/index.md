@@ -59,7 +59,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Our priority at Xerylin is to ensure that your account, server files and
+      any related data are kept private and secure with the help of our backup
+      servers.
     items:
       - type: FeaturedItem
         title: 500k
