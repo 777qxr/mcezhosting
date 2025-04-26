@@ -238,7 +238,7 @@ sections:
         type: FeaturedItem
       - title: FeedBack
         tagline: Riyaa
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: |
           10/10 premium experience plan SDEX #4
         image:
