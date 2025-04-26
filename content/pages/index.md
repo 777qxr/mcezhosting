@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: 'Cheap & Reliable '
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
