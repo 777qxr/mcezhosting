@@ -160,10 +160,7 @@ sections:
       subtitle:
         textAlign: center
   - subtitle: Customer Reviews
-    images:
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
+    images: []
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
