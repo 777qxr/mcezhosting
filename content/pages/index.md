@@ -293,7 +293,7 @@ sections:
           "Design can be art. Design can be aesthetics. Design is so simple,
           that's why it is so complicated."
         tagline: ''
-        subtitle: 'Jane Walters, Company'
+        subtitle: '@ShinMXD'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
