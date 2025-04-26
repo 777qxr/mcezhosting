@@ -39,7 +39,7 @@
         },
         {
             "label": "Privacy Policy",
-            "altText": "",
+            "altText": "Privacy Policy",
             "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
