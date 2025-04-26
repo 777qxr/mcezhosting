@@ -10,8 +10,8 @@
         "links": [
             {
                 "label": "Free Game Hosting",
-                "altText": "Features page",
-                "url": "/",
+                "altText": "",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
