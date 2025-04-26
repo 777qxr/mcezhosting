@@ -116,10 +116,4 @@ sections:
       subtitle:
         textAlign: center
 slug: GamePlans
-seo:
-  type: Seo
-  metaTitle: Plans
-  metaDescription: ''
-  socialImage: /images/main-hero.jpg
-  metaTags: []
 ---
