@@ -374,7 +374,7 @@ sections:
     type: FeaturedItemsSection
     actions:
       - type: Button
-        label: Get started
+        label: Start your game server
         altText: ''
         url: 'https://discord.gg/mcezhosting'
         showIcon: false
