@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Budget Pricing
       color: text-dark
       styles:
         self:
