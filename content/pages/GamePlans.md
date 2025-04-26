@@ -88,7 +88,7 @@ sections:
           - 16 GB RAM
           - 6 Cores CPU
           - 200 GB DISK
-          - Feature five
+          - 3 BACKUP SLOTS
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
