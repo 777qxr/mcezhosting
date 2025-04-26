@@ -385,4 +385,5 @@ sections:
 type: PageLayout
 seo:
   type: Seo
+  metaTitle: Main Site
 ---
