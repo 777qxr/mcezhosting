@@ -161,9 +161,6 @@ sections:
         textAlign: center
   - subtitle: Customer Reviews
     images:
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
