@@ -23,7 +23,7 @@
         {
             "label": "Game Panel",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "https://control.mcezmc.fun",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
