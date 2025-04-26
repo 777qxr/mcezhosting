@@ -80,9 +80,9 @@ sections:
         title: Starter Plan
         price: Tree
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |+
+          Server Specification
+
         features:
           - Feature one
           - Feature two
