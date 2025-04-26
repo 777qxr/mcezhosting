@@ -263,7 +263,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Good Hosting 10/10 Cheap And Good
-        tagline: Testimonial 4
+        tagline: ''
         subtitle: '@LeoMC'
         text: |+
           ## Good Hosting 10/10 Cheap And Good
