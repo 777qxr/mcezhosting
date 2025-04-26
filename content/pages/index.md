@@ -351,7 +351,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: "Servers that\_spark tolife\_in seconds"
+      text: "Servers that\_spark to life\_in seconds"
       color: text-primary
       styles:
         self:
