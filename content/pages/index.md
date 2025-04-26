@@ -265,10 +265,11 @@ sections:
       - title: Good Hosting 10/10 Cheap And Good
         tagline: Testimonial 4
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          ## Good Hosting 10/10 Cheap And Good
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
