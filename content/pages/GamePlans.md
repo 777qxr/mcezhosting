@@ -14,7 +14,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Starter
-        price: Free
+        price: Newbie Plan
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
