@@ -8,10 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >+
+    text: >
       Launch Instant, performance filled game servers, optimized by the
-      developers of xerylin, waiting to be yours!
-
+      developers of mcez, waiting to be yours!
     actions:
       - label: Get started
         altText: ''
