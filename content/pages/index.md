@@ -185,7 +185,7 @@ sections:
     items:
       - title: Feedback
         tagline: ''
-        subtitle: '@Xao'
+        subtitle: '@Xao Wong Lee'
         text: |
           8/10 bcs long wait time when i purchased but overall great!
         image:
