@@ -87,7 +87,7 @@ sections:
           - 16 GB RAM
           - 6 Cores CPU
           - 200 GB DISK
-          - Feature four
+          - 3 BACKUP SLOTS
           - Feature five
         image:
           type: ImageBlock
