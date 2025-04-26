@@ -383,4 +383,6 @@ sections:
         style: primary
         elementId: ''
 type: PageLayout
+seo:
+  type: Seo
 ---
