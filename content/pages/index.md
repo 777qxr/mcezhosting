@@ -236,7 +236,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: FeedBack
+      - title: Feedback
         tagline: ''
         subtitle: '@Riyaa'
         text: |
