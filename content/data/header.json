@@ -40,17 +40,6 @@
         },
         {
             "type": "Link",
-            "label": "Privacy Policy",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "Game Plans",
             "altText": "",
             "url": "/",
