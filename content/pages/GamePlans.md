@@ -45,7 +45,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: Starter Plan
         price: $99
         details: per month
         description: >-
