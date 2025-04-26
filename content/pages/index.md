@@ -7,7 +7,7 @@ sections:
       text: 'Reliability, Speed, Locations all in one host.'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Launch Instant, performance filled game servers, optimized by the
       developers of mcez, waiting to be yours!
