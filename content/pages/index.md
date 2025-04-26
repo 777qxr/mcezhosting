@@ -65,7 +65,7 @@ sections:
       servers.
     items:
       - type: FeaturedItem
-        title: '500'
+        title: Secure
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
