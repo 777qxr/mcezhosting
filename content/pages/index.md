@@ -262,7 +262,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Good Hosting 10/10 Cheap And Good
+      - title: Feedback
         tagline: ''
         subtitle: '@LeoMC'
         text: |+
