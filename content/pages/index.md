@@ -358,24 +358,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Zero waiting. Zero hassle. MCEZ's servers are globally
-    items:
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
+    items: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
