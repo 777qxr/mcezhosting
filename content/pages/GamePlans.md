@@ -46,7 +46,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Starter Plan
-        price: $99
+        price: World
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
