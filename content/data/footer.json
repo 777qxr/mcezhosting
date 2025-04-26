@@ -33,7 +33,7 @@
         "links": [
             {
                 "label": "Discord",
-                "altText": "careers page",
+                "altText": "",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
