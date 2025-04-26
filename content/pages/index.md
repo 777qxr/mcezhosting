@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Reliability, Speed, Locations all in one host.'
-      color: text-neutral
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: >+
