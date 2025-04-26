@@ -214,10 +214,9 @@ sections:
           accomplish a particular purpose."
         tagline: ShinKuriii_
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          11/10 Fast transaction about 3 minutes LIMITED Singapore EX3 PLAN 2
+          MONTHS W vouch @777Qxr & @vypnito
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
