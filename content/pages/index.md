@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      ### Launch Instant, performance filled game servers, optimized by the
+      ##### Launch Instant, performance filled game servers, optimized by the
       developers of mcez, waiting to be yours!
 
     actions:
