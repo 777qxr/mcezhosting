@@ -1,5 +1,5 @@
 ---
-title: TermsOfService
+title: TOS
 slug: careers
 sections:
   - title:
