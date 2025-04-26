@@ -318,10 +318,9 @@ sections:
       - title: Feedback
         tagline: ''
         subtitle: '@BAZA'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          10/10 very fast took 10 mins - Magic Plan
+
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
