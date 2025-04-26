@@ -23,7 +23,7 @@ sections:
         type: Button
       - label: Learn More
         altText: ''
-        url: /
+        url: 'https://discord.gg/mcezhosting'
         showIcon: true
         icon: arrowRight
         iconPosition: right
