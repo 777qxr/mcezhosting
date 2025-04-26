@@ -118,10 +118,9 @@ sections:
         type: FeaturedItem
       - title: Reliability
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          MCEZ is provided by well know, renound providers hence no worries of
+          going offline anymore.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
