@@ -23,7 +23,7 @@ sections:
           - 4GB RAM
           - 4 Cores CPU
           - 100 GB DISK
-          - ''
+          - 3 BACKUP SLOTS
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
