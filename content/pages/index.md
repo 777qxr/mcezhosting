@@ -183,9 +183,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: 8/10 bcs long wait time when i purchased but overall great!
         tagline: 'xao wong lee '
         subtitle: ''
         text: |
