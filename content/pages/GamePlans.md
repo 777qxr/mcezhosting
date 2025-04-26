@@ -53,7 +53,7 @@ sections:
         features:
           - ₱580/month
           - 8 GB RAM
-          - Feature three
+          - 4 Cores CPU
           - Feature four
         image:
           type: ImageBlock
