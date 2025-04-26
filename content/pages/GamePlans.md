@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Starter Plan
         price: Newbie
-        details: Server Spe
+        details: ''
         description: |
           Server Specification
         features:
