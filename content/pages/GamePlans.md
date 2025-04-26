@@ -13,7 +13,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: Starter
+        title: Starter Plan
         price: Newbie
         details: No credit card required
         description: >-
