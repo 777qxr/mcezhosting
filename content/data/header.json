@@ -33,7 +33,7 @@
             "type": "Link",
             "label": "Game Plans",
             "altText": "",
-            "url": "/",
+            "url": "/gameplans",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
