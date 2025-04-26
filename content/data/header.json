@@ -43,7 +43,7 @@
         {
             "label": "Terms Of Service",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/TermsOfService",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
