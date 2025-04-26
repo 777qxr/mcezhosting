@@ -357,7 +357,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Zero waiting. Zero hassle. MCEZ's servers are globally
     items:
       - title: Feature Item One
         tagline: This is the tagline
