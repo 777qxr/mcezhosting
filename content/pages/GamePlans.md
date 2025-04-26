@@ -86,7 +86,7 @@ sections:
         features:
           - 16 GB RAM
           - 6 Cores CPU
-          - Feature three
+          - 200 GB DISK
           - Feature four
           - Feature five
         image:
