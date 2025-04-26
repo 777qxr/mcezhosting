@@ -84,7 +84,7 @@ sections:
           Server Specification
 
         features:
-          - Feature one
+          - 16 GB RAM
           - Feature two
           - Feature three
           - Feature four
