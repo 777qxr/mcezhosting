@@ -1,6 +1,6 @@
 ---
 title: TOS
-slug: careers
+slug: TOS
 sections:
   - title:
       text: Terms Of Service
