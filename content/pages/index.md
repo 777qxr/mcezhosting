@@ -211,7 +211,7 @@ sections:
         type: FeaturedItem
       - title: Feedback
         tagline: '@ShinKuriii_'
-        subtitle: ''
+        subtitle: '@ShinKuriii_'
         text: >
           11/10 Fast transaction about 3 minutes LIMITED Singapore EX3 PLAN 2
           MONTHS W vouch @777Qxr & @vypnito
