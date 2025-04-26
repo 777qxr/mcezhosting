@@ -8,9 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      Launch Instant, performance filled game servers, optimized by the
+    text: >+
+      ### Launch Instant, performance filled game servers, optimized by the
       developers of mcez, waiting to be yours!
+
     actions:
       - label: Get started
         altText: ''
