@@ -183,7 +183,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: 8/10 bcs long wait time when i purchased but overall great!
+      - title: Feedback
         tagline: ''
         subtitle: ''
         text: |
