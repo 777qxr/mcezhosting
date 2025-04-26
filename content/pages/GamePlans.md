@@ -95,7 +95,7 @@ sections:
           altText: Pricing plan 3
         actions:
           - type: Button
-            label: Contact us
+            label: Get Now
             url: /
             icon: arrowRight
             iconPosition: right
