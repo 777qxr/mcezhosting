@@ -31,7 +31,7 @@ sections:
         actions:
           - type: Button
             label: Get Now
-            url: /
+            url: 'https://discord.gg/mcezhosting'
             icon: arrowRight
             iconPosition: right
             style: secondary
