@@ -372,6 +372,16 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
