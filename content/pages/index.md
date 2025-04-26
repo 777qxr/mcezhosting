@@ -68,7 +68,7 @@ sections:
         title: Secure
         subtitle: ''
         text: |
-          Powered by Highly-secure MCEZ Backup System
+          Powered by Highly-secure MCEZ Backup System & NetLYNC encryption.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
