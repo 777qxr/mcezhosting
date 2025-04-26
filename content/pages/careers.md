@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: TOS
 slug: careers
 sections:
   - title:
@@ -36,10 +36,5 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
-seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
-  type: Seo
 type: PageLayout
 ---
