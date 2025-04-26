@@ -93,10 +93,10 @@ sections:
               borderRadius: x-large
       - title: Privacy
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We dont ever save your payment details its done on the spot, Deploy
+          your server within a minute without giving us any of your personal
+          info like adress.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
