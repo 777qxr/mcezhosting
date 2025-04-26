@@ -374,7 +374,7 @@ sections:
     type: FeaturedItemsSection
     actions:
       - type: Link
-        label: See Tutorials
+        label: Start your Game Server
         altText: ''
         url: /
         showIcon: false
