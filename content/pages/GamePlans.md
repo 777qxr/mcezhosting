@@ -87,7 +87,7 @@ sections:
           - ₱640/month
           - 16 GB RAM
           - 6 Cores CPU
-          - 3 BACKUP SLOTS
+          - 200 GB DISK
           - Feature five
         image:
           type: ImageBlock
