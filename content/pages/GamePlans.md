@@ -55,6 +55,7 @@ sections:
           - 8 GB RAM
           - 4 Cores CPU
           - 100 GB DISK
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
