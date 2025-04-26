@@ -54,7 +54,7 @@ sections:
           - ₱580/month
           - 8 GB RAM
           - 4 Cores CPU
-          - Feature four
+          - 100 GB DISK
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
