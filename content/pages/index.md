@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Keep your dataprivate & safe
+      text: Keep your data private & safe
       color: text-dark
       styles:
         self:
