@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Cheap & Reliable Plans
     plans:
       - type: PricingPlan
         title: Starter Plan
