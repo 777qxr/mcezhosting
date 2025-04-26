@@ -30,7 +30,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Launch Your Server
+            label: Get Now
             url: /
             icon: arrowRight
             iconPosition: right
