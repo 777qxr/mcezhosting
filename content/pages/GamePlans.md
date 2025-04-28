@@ -117,9 +117,10 @@ sections:
           Server  Specification
         features:
           - ₱1200/month
-          - Feature two
-          - Feature three
-          - Feature four
+          - 24 GB RAM
+          - 8 Cores CPU
+          - 200 GB DISK
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
