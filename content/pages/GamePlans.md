@@ -184,7 +184,7 @@ sections:
           - 48 GB RAM
           - 10 Cores CPU
           - 400 GB DISK
-          - ''
+          - 5 BACKUP SLOTS
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
