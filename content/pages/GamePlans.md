@@ -240,7 +240,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: North America Location's
-        subtitle: Marketing
+        subtitle: United States -
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
