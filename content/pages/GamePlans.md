@@ -257,7 +257,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Europe Location's
-        subtitle: France - Germany - Lithuania - UnitedKingdom -
+        subtitle: France - Germany - Lithuania - United Kingdom -
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
