@@ -376,7 +376,7 @@ sections:
       - type: Button
         label: Start your game server →
         altText: ''
-        url: 'https://discord.gg/mcezhosting'
+        url: /GamePlans
         showIcon: false
         icon: arrowRight
         iconPosition: right
