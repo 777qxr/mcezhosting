@@ -183,7 +183,8 @@ sections:
           - ₱2039/month
           - 48 GB RAM
           - 10 Cores CPU
-          - Feature four
+          - 400 GB DISK
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
