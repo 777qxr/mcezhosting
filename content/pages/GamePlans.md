@@ -176,7 +176,7 @@ sections:
       - type: PricingPlan
         title: Budget Plan
         price: Nebula
-        details: No credit card required
+        details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
