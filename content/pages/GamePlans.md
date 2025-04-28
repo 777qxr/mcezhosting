@@ -211,38 +211,5 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: ImageGallerySection
-    subtitle: Available Locations
-    images:
-      - type: ImageBlock
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
 slug: GamePlans
 ---
