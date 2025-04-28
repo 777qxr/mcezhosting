@@ -112,7 +112,7 @@ sections:
       - type: PricingPlan
         title: Budget Plan
         price: Galaxy
-        details: Per month
+        details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
