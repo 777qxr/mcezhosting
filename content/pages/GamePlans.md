@@ -112,7 +112,7 @@ sections:
       - type: PricingPlan
         title: Budget Plan
         price: Galaxy
-        details: No credit card required
+        details: Per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
