@@ -180,7 +180,7 @@ sections:
         description: |
           Server Specification
         features:
-          - Feature one
+          - ₱2039/month
           - Feature two
           - Feature three
           - Feature four
