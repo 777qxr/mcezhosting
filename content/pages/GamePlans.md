@@ -215,10 +215,6 @@ sections:
     subtitle: Available Locations
     images:
       - type: ImageBlock
-        url: /images/Flag_of_India.svg.png
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/wellster-logo.svg
         altText: Wellster logo
         elementId: ''
