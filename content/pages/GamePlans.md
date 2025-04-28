@@ -273,7 +273,7 @@ sections:
     actions:
       - type: Button
         label: 'Launch your server '
-        url: /
+        url: 'https://discord.gg/mcezhosting'
         icon: arrowRight
         iconPosition: right
         style: primary
