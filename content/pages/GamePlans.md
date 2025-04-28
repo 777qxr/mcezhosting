@@ -240,7 +240,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: North America Location's
-        subtitle: United States - Phoenix &
+        subtitle: United States - Phoenix & Boston
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
