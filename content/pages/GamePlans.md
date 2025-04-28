@@ -224,10 +224,7 @@ sections:
       - type: FeaturedItem
         title: Asia Location's
         subtitle: Singapore
-        text: |
-          India
-
-          Indonesia
+        text: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
