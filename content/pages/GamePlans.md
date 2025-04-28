@@ -223,7 +223,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Asia Location's
-        subtitle: "Singapore\_ - India - Indonesia"
+        subtitle: Singapore - India - Indonesia
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
