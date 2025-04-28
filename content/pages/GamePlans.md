@@ -174,7 +174,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Developers
+        title: Budget Plan
         price: Free
         details: No credit card required
         description: >-
