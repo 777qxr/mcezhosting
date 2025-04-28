@@ -116,7 +116,7 @@ sections:
         description: |
           Server  Specification
         features:
-          - Feature one
+          - ₱1200/month
           - Feature two
           - Feature three
           - Feature four
