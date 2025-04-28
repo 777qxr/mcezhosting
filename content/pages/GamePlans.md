@@ -77,7 +77,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Starter Plan
+        title: Starter PlanBudget Plan
         price: Tree
         details: per month
         description: |+
