@@ -13,7 +13,7 @@ sections:
     subtitle: Cheap & Reliable Plans
     plans:
       - type: PricingPlan
-        title: Starter Plan
+        title: Budget Plan
         price: Newbie
         details: per month
         description: |
