@@ -215,9 +215,6 @@ sections:
     subtitle: Available Locations
     images:
       - type: ImageBlock
-        altText: ''
-        elementId: ''
-      - type: ImageBlock
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
