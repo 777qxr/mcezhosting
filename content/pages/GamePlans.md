@@ -145,9 +145,8 @@ sections:
         title: Budget Plan
         price: Galatic
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Server Specification
         features:
           - Feature one
           - Feature two
