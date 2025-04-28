@@ -256,7 +256,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: South America Location's
+        title: Europe Location's
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
