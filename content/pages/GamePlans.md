@@ -272,7 +272,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: 'Launch your server '
         url: /
         icon: arrowRight
         iconPosition: right
