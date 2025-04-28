@@ -215,7 +215,7 @@ sections:
     subtitle: Available Locations
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Flag_of_India.svg.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
