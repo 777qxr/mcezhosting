@@ -214,7 +214,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Available Locations
       color: text-dark
       styles:
         self:
