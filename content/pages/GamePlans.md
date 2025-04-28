@@ -212,7 +212,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Locations
+    subtitle: Ava
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
