@@ -181,7 +181,7 @@ sections:
           Server Specification
         features:
           - ₱2039/month
-          - Feature two
+          - 48 GB RAM
           - Feature three
           - Feature four
         image:
