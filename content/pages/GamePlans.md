@@ -219,7 +219,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Some Server-Plans doesn't have Singapore
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Account Executive
