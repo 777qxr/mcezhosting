@@ -223,7 +223,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Asia Location's
-        subtitle: Singapore
+        subtitle: Singapore (
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
