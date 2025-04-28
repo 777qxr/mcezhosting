@@ -45,7 +45,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Starter Plan
+        title: Budget Plan
         price: World
         details: per month
         description: |
