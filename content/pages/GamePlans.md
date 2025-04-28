@@ -127,7 +127,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Get now
+            label: Get Now
             url: /
             icon: arrowRight
             iconPosition: right
