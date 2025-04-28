@@ -215,7 +215,7 @@ sections:
     subtitle: Available Locations
     images:
       - type: ImageBlock
-        altText: Vise logo
+        altText: asdasd
         elementId: ''
       - type: ImageBlock
         altText: Telus logo
