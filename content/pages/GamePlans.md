@@ -257,7 +257,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Europe Location's
-        subtitle: Engineering
+        subtitle: France -
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
